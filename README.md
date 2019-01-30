@@ -12,5 +12,7 @@ git clone "remote link of this repository"
 docker-compose up
 # wait for the build...
 
+```
+
 - Open the browser on the exposed Docker IP on port 80 (usually http://localhost, could be different based on your configuration).
 - Enjoy!!!
